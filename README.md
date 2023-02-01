@@ -7,9 +7,9 @@
 
 
 - Studying software development at [UNIFOR](https://unifor.br/web/graduacao/analise-e-desenvolvimento-de-sistema)
-- Intern mobile dev at lead dell
+- Intern mobile dev at [lead dell](https://leadfortaleza.com.br/portal)
 - Learning web dev by myself while working with mobile
-- A CRUD like project made using react native [link](https://github.com/Sarmuns/SkillList)
+- A CRUD like project made using react native: [skillList](https://github.com/Sarmuns/SkillList)
 - Some frontend web challenges i made [PointAndClick](https://poetic-axolotl-413248.netlify.app/) and [Pokedex](https://timely-heliotrope-1de85f.netlify.app/) both repositories can be easily found in my pinned repos.
 
 
