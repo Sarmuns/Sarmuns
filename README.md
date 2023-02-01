@@ -17,7 +17,7 @@
 
 <br>
 
-- Studying software development at UNIFOR
+- Studying software development at [UNIFOR](https://unifor.br/web/graduacao/analise-e-desenvolvimento-de-sistema)
 - Intern mobile dev at lead dell
 - Learning web dev by myself while working with mobile
 - A CRUD like project made using react native [link](https://github.com/Sarmuns/SkillList)
