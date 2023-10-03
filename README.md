@@ -1,7 +1,7 @@
 <p align="center"><b> Hello, my name is Samuel </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></p>
 
 # 💫 About Me:
-🔭 Salesforce Developer with react and react native experience<br>Apex focused.<br><br>🌱 Learning OmniStudio <br><br>⚡ Fun fact: i have no idea what i'm doing at least 20.8% of the time
+🔭 Salesforce Developer<br>Apex focused.<br><br>🌱 Learning OmniStudio <br><br>⚡ Fun fact: i have no idea what i'm doing at least 20.8% of the time
 
 
 ## 🌐 Socials:
